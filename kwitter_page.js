@@ -1,13 +1,12 @@
 //YOUR FIRE BASE LINKS
 var firebaseConfig = {
-  apiKey: "AIzaSyCWrkyu8GmIftpG2hHArzQu5et-1Bk8jw4",
-  authDomain: "smedia-d2a6e.firebaseapp.com",
-  databaseURL: "https://smedia-d2a6e-default-rtdb.firebaseio.com",
-  projectId: "smedia-d2a6e",
-  storageBucket: "smedia-d2a6e.firebasestorage.app",
-  messagingSenderId: "406654311575",
-  appId: "1:406654311575:web:814e60b2451d54056b9dd2"
-};
+  apiKey: "AIzaSyAZmN8jUnGwruuZF5PV-tYoIO-siig2zcE",
+  authDomain: "smedia-2.firebaseapp.com",
+  databaseURL: "https://smedia-2-default-rtdb.firebaseio.com",
+  projectId: "smedia-2",
+  storageBucket: "smedia-2.firebasestorage.app",
+  messagingSenderId: "461919494598",
+  appId: "1:461919494598:web:e0f9d2112307f5451b12c7"};
 
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
